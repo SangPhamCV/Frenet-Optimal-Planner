@@ -1,0 +1,47 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sangpham/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/sangpham/catkin_ws/src/according_script/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/amcl/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/base_local_planner/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/carrot_planner/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/costmap_2d/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/map_server/include/**",
+        "/home/sangpham/catkin_ws/src/mascot/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/move_base/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/navfn/include/**",
+        "/home/sangpham/catkin_ws/src/particle_filter_localization/include/**",
+        "/home/sangpham/catkin_ws/src/pedsim_ros/3rdparty/libpedsim/include/**",
+        "/home/sangpham/catkin_ws/src/pedsim_ros/pedsim_sensors/include/**",
+        "/home/sangpham/catkin_ws/src/pedsim_ros/pedsim_simulator/include/**",
+        "/home/sangpham/catkin_ws/src/pedsim_ros/pedsim_utils/include/**",
+        "/home/sangpham/catkin_ws/src/pedsim_ros/pedsim_visualizer/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/rotate_recovery/include/**",
+        "/home/sangpham/catkin_ws/src/self_localization/include/**",
+        "/home/sangpham/catkin_ws/src/turtlebot/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/sangpham/catkin_ws/src/turtlebot/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/sangpham/catkin_ws/src/turtlebot/turtlebot3/turtlebot3_slam/include/**",
+        "/home/sangpham/catkin_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
